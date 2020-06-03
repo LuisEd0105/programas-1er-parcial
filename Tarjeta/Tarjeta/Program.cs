@@ -38,7 +38,14 @@ namespace Tarjeta_
 
             else if (metpago.Equals("efectivo"))
             {
+                if (precio < 0)
+                {
+                    Console.WriteLine("El precio no es correcto, porfavor intentelo denuevo");
+                }
+                else
+                {
                 Console.WriteLine("El producto con precio " + precio + " se ha pagado correctamente!");
+                }
             }
 
             else
