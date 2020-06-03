@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\bin\Debug\ejercicio 1 parcial.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\bin\Debug\ejercicio 1 parcial.exe
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\bin\Debug\ejercicio 1 parcial.pdb
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\obj\Debug\ejercicio 1 parcial.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\obj\Debug\ejercicio 1 parcial.exe
+c:\users\hp\documents\visual studio 2012\Projects\ejercicio 1 parcial\ejercicio 1 parcial\obj\Debug\ejercicio 1 parcial.pdb
+C:\Users\hp\Desktop\ejercicio 1 parcial\ejercicio 1 parcial\bin\Debug\ejercicio 1 parcial.exe.config
+C:\Users\hp\Desktop\ejercicio 1 parcial\ejercicio 1 parcial\obj\Debug\ejercicio 1 parcial.exe
+C:\Users\hp\Desktop\ejercicio 1 parcial\ejercicio 1 parcial\obj\Debug\ejercicio 1 parcial.pdb

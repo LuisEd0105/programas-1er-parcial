@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\bin\Debug\Tarjeta.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\bin\Debug\Tarjeta.exe
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\bin\Debug\Tarjeta.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\obj\Debug\Tarjeta.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\obj\Debug\Tarjeta.exe
+c:\users\hp\documents\visual studio 2012\Projects\Tarjeta\Tarjeta\obj\Debug\Tarjeta.pdb
