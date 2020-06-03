@@ -25,8 +25,15 @@ namespace Tarjeta_
                 Console.Write("Digite el numero de la tarjeta: ");
                 numtarjeta = double.Parse(Console.ReadLine());
                 
+                if(numtarjeta < 0)
+                {
+                    Console.WriteLine("Valores incorrectos, porfavor intentelo denuevo");
+                }
+                else
+                {
                 Console.WriteLine("El producto con precio " + precio + " se ha pagado" + 
                 " con el numero cuenta " + numtarjeta);
+                }
             }
 
             else if (metpago.Equals("efectivo"))
